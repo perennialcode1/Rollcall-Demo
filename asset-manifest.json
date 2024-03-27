@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9595666.css",
+    "main.js": "/static/js/main.0ff9ddf6.js",
+    "static/js/300.23b9f29f.chunk.js": "/static/js/300.23b9f29f.chunk.js",
+    "static/js/952.67830728.chunk.js": "/static/js/952.67830728.chunk.js",
+    "static/js/500.3eacb5dd.chunk.js": "/static/js/500.3eacb5dd.chunk.js",
+    "static/js/592.31fce49e.chunk.js": "/static/js/592.31fce49e.chunk.js",
+    "static/media/0888.png": "/static/media/0888.3f2b915ed7a37451df1a.png",
+    "static/media/comingsoon.jpeg": "/static/media/comingsoon.fb50f8a5b2647663c024.jpeg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/logo.png": "/static/media/logo.19d02d8af08f55d6b6c2.png",
+    "static/media/rollcall.jpg": "/static/media/rollcall.e0bd3dfd64191f8e9111.jpg",
+    "index.html": "/index.html",
+    "main.d9595666.css.map": "/static/css/main.d9595666.css.map",
+    "main.0ff9ddf6.js.map": "/static/js/main.0ff9ddf6.js.map",
+    "300.23b9f29f.chunk.js.map": "/static/js/300.23b9f29f.chunk.js.map",
+    "952.67830728.chunk.js.map": "/static/js/952.67830728.chunk.js.map",
+    "500.3eacb5dd.chunk.js.map": "/static/js/500.3eacb5dd.chunk.js.map",
+    "592.31fce49e.chunk.js.map": "/static/js/592.31fce49e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9595666.css",
+    "static/js/main.0ff9ddf6.js"
+  ]
+}
